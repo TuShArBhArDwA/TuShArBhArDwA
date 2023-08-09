@@ -1,5 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
-<h1 align="center">Hi 👋, I'm Tushar Bhardwaj</h1>
+[![MaterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)](https://tusharshukla.io)
+<h1 align="center">Hi , I'm Tushar Bhardwaj 😉</h1>
 <h3 align="center">A passionate frontend developer from India :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharbhardwa&label=Profile%20views&color=0e75b6&style=flat" alt="tusharbhardwa" /> </p>
@@ -25,7 +25,7 @@
 <a href="https://codesandbox.com/tusharbhardwaj2617" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="tusharbhardwaj2617" height="30" width="40" /></a>
 <a href="https://kaggle.com/tusharbhardwaj2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tusharbhardwaj2004" height="30" width="40" /></a>
 <a href="https://instagram.com/tushar_._bhardwaj_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tushar_._bhardwaj_/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@anonymous_community" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@anonymous_community" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Anonymous_Community" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@anonymous_community" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/tushar2004b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tushar2004b" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/tusharbhardwaj24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tusharbhardwaj24" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/bhardwajtushar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="bhardwajtushar" height="30" width="40" /></a>
