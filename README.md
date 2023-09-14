@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/TuShArBhArDwA?tab=repositories](https://github.com/TuShArBhArDwA?tab=repositories)
 
-- 💬 Ask me about **Python and C**
+- 💬 Ask me about **Python , C and C++**
 
 - 📫 How to reach me **tusharbhardwaj2617@gmail.com**
 
