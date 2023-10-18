@@ -1,21 +1,25 @@
 [![MaterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)](https://tusharshukla.io)
-<h1 align="center">Hi , I'm Tushar Bhardwaj 😉</h1>
-<h3 align="center">A passionate frontend developer from India :)</h3>
+<h1 align="center">Hi 👋, I'm Tushar Bhardwaj </h1>
+<h3 align="center">An innovative software developer dedicated to crafting cutting-edge solutions that drive the digital realm forward.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharbhardwa&label=Profile%20views&color=0e75b6&style=flat" alt="tusharbhardwa" /> </p>
 
 <p align="left"> <a href="https://twitter.com/tusharbhard2004" target="blank"><img src="https://img.shields.io/twitter/follow/tusharbhard2004?logo=twitter&style=for-the-badge" alt="tusharbhard2004" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **C++ and DSA**
+- 🌱 I’m currently learning **DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TuShArBhArDwA?tab=repositories](https://github.com/TuShArBhArDwA?tab=repositories)
 
-- 💬 Ask me about **Python , C and C++**
+- 💬 Ask me about **Python , C , C++ and DSA**
+
+- 👯 I’m looking to collaborate on **My Projects**
 
 - 📫 How to reach me **tusharbhardwaj2617@gmail.com**
 
-- ⚡ Fun fact **I don't have any knowledge of coding before going to university😊**
+- ⚡ Fun fact **Besides being passionate about Software Developer, I also have a knack for telling jokes! Here's one for you: Why do programmers always mix up Christmas and Halloween?
+   Because Oct 31 == Dec 25.
+ 😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
