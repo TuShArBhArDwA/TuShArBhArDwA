@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/bhardwajtushar2004/)
 
--  📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-tusharbhardwaj2617@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chukypedro15@gmail.com)](mailto:tusharbhardwaj2617@gmail.com)
+-  📫 How to reach me tusharbhardwaj2617@gmail.com
 - ⚡Fact: **At the end everything is static**
 
  <a href="https://leetcode.com/TusharBhardwaj2004/" target="_blank">
