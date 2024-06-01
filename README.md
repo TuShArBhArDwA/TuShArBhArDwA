@@ -1,25 +1,41 @@
-# 💫 About Me:
-- 🌱 I’m currently learning **Java and DSA**<br><br>- 💬 Ask me about Java,C++<br><br>- 📫 How to reach me tusharbhardwaj2617@gmail.com<br><br>- ⚡Fact **At the end everything is static<br>
 
+- 🏠 BELONG TO -> **HISAR - HARYANA**
+<h1 align="center"><p align="left">
+ <a href="https://git.io/typing-svg" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&color=1A9AF7&lines=;My+self+Tushar+Bhardwaj;Welcome+to+my+GitHub;I'm+a+competitive+programmer;I'm+a+LeetCoder;I'm+a+Open+Source+Contributor;">
+  </a>
+</p>
+</h1>
+<h3 align="center">  Leetcode (1382) | Competitive Programmer | Computer Science & Engineering</h3>
+<img src= "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TuShArBhArDwA&label=Profile%20views&color=0e75b6&style=flat" alt="tushar_bhardwaj" /> </p>
+<p align="left"> <a href="https://twitter.com/t_ushar19" target="blank"><img src="https://img.shields.io/twitter/follow/tushar_bhardwaj?logo=twitter&style=for-the-badge" alt="tushar_bhardwaj" /></a> </p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/tushar_._bhardwaj_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhardwajtushar2004/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20807904/tushar-bhardwaj) 
+- 🏅 I’m currently learning **Data Structures & Algorithms**
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TuShArBhArDwA&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=TuShArBhArDwA&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TuShArBhArDwA&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/bhardwajtushar2004/)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+-  📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-tusharbhardwaj2617@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chukypedro15@gmail.com)](mailto:tusharbhardwaj2617@gmail.com)
+- ⚡Fact: **At the end everything is static**
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=TuShArBhArDwA&limit=5&theme=dark&combine_all_yearly_contributions=true)
+ <a href="https://leetcode.com/TusharBhardwaj2004/" target="_blank">
+ <img align="right" src='https://leetcard.jacoblin.cool/TusharBhardwaj2004?hide=ranking&border=0&radius=21' width='310"'>
+</a>
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/bhardwajtushar2004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@tushar_bhardwaj" height="30" width="40" /></a>
+<a href="https://www.instagram.com/t.ushar19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="t.ushar19" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Anonymous_Community" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@Anonymous_Community" height="30" width="40" /></a>
+<a href="https://leetcode.com/TusharBhardwaj2004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@tushar_bhardwaj" height="30" width="40" /></a>
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=TuShArBhArDwA&icon=0&color=0)](https://visitcount.itsvg.in)
+<br>
+<p>
+
+ ![Screenshot from 2023-10-20 02-10-20](https://github.com/yashsiwach/yashsiwach/assets/112823140/1fe0731d-0d2b-4697-8134-c29c8494f381)
+</p>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=TuShArBhArDwA&" alt="tushar_bhardwaj" />
+<img src= "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+    
+</div>
