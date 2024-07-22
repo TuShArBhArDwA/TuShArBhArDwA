@@ -10,12 +10,12 @@
 <img src= "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TuShArBhArDwA&label=Profile%20views&color=0e75b6&style=flat" alt="tushar_bhardwaj" /> </p>
 <p align="left"> <a href="https://twitter.com/t_ushar19" target="blank"><img src="https://img.shields.io/twitter/follow/tushar_bhardwaj?logo=twitter&style=for-the-badge" alt="tushar_bhardwaj" /></a> </p>
-
+- 🌐 [My Website](https://tusharbhardwa.github.io/Portfolio/)
 - 🏅 I’m currently learning **Data Structures & Algorithms**
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/bhardwajtushar2004/)
 
--  📫 How to reach me [My Website](https://tusharbhardwa.github.io/Portfolio/)
+-  📫 How to reach me [Connect 1:1](https://topmate.io/tusharbhardwaj)
 - ⚡Fact: **At the end everything is static**
 
  <a href="https://leetcode.com/Tusharr2004/" target="_blank">
