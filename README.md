@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/bhardwajtushar2004/)
 
--  📫 How to reach me tusharbhardwaj2617@gmail.com
+-  📫 How to reach me [My Website](https://tusharbhardwa.github.io/Portfolio/)
 - ⚡Fact: **At the end everything is static**
 
  <a href="https://leetcode.com/Tusharr2004/" target="_blank">
