@@ -15,7 +15,7 @@
 
 - 🏅 I’m currently learning **Data Structures & Algorithms**
 
-- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/bhardwajtushar2004/)
+- 📝 I write articles on [LinkedIn](https://www.linkedin.com/in/bhardwajtushar2004/)
 
 -  📫 How to reach me [Connect 1:1](https://topmate.io/tusharbhardwaj)
 - ⚡Fact: **At the end everything is static**
