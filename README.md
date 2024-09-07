@@ -10,8 +10,10 @@
 <img src= "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TuShArBhArDwA&label=Profile%20views&color=0e75b6&style=flat" alt="tushar_bhardwaj" /> </p>
 <p align="left"> <a href="https://twitter.com/t_ushar19" target="blank"><img src="https://img.shields.io/twitter/follow/tushar_bhardwaj?logo=twitter&style=for-the-badge" alt="tushar_bhardwaj" /></a> </p>
+
+- 🌐 PortFolio 👉 [View Website](https://tushar-bhardwaj.vercel.app/)
  
-- 🌐 PortFolio 👉 [View Website](https://tusharbhardwa.github.io/Portfolio/)
+- 🌐 PortFolio 2 👉 [View Website](https://tusharbhardwaj.vercel.app/)
 
 - 🏅 I’m currently learning **Data Structures & Algorithms**
 
