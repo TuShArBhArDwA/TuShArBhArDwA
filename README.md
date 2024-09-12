@@ -6,7 +6,7 @@
   </a>
 </p>
 </h1>
-<h3 align="center">  Leetcode (1428) | Programmer | Computer Science & Engineering</h3>
+<h3 align="center">  Leetcode (1431) | Programmer | Computer Science & Engineering</h3>
 <img src= "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TuShArBhArDwA&label=Profile%20views&color=0e75b6&style=flat" alt="tushar_bhardwaj" /> </p>
 <p align="left"> <a href="https://twitter.com/t_ushar19" target="blank"><img src="https://img.shields.io/twitter/follow/tushar_bhardwaj?logo=twitter&style=for-the-badge" alt="tushar_bhardwaj" /></a> </p>
@@ -29,7 +29,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/bhardwajtushar2004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@tushar_bhardwaj" height="30" width="40" /></a>
-<a href="https://www.instagram.com/t.ushar19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="t.ushar19" height="30" width="40" /></a>
+<a href="https://www.instagram.com/t.ushar20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="t.ushar19" height="30" width="40" /></a>
 <a href="https://leetcode.com/Tusharr2004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@tushar_bhardwaj" height="30" width="40" /></a>
 </p>
 
