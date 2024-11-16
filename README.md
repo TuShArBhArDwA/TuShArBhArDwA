@@ -15,7 +15,7 @@
  
 - 🌐 PortFolio 2 👉 [View Website](https://tusharbhardwaj.vercel.app/)
 
-- 🏅 I’m currently learning **Data Structures & Algorithms**
+- 🏅 I’m currently learning **Competitive Programming**
 
 - 📝 I write articles on [LinkedIn](https://www.linkedin.com/in/bhardwajtushar2004/)
 
