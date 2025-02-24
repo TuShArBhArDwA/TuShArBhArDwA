@@ -36,7 +36,6 @@
 
  ![Screenshot from 2023-10-20 02-10-20](https://github.com/yashsiwach/yashsiwach/assets/112823140/1fe0731d-0d2b-4697-8134-c29c8494f381)
 </p>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=TuShArBhArDwA&" alt="tushar_bhardwaj" />
 <img src= "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
     
 </div>
