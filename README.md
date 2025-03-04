@@ -12,7 +12,7 @@
 - 🌐 PortFolio 👉 [View Website](https://tushar-bhardwaj.vercel.app/)
  
 - 🌐 PortFolio 2 👉 [View Website](https://tusharbhardwaj.vercel.app/)
-- 🚀 Building a **Full Stack Job Portal**
+
 - 🏅 I’m currently learning **Competitive Programming**
 
 - 📝 I write articles on [LinkedIn](https://www.linkedin.com/in/bhardwajtushar2004/)
