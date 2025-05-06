@@ -6,9 +6,10 @@
   </a>
 </p>
 </h1>
-<h3 align="center">  Leetcode (1539) | Programmer | Computer Science & Engineering</h3>
+<h3 align="center">  Leetcode (1554) | Programmer | Computer Science & Engineering</h3>
+<div>
 <img src= "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<img align="right" alt="coding" width="300" height="290" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdpMDZjYndvamprdzVybThxdGlxMGEwcTAxZmlvc2p5bzJxZGFlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy-downsized.gif">
 - [🤖 Meet T-Bot & discover my work](https://t-bot-blush.vercel.app/)
 
 - 🌐 PortFolio 👉 [View Website](https://tushar-bhardwaj.vercel.app/)
@@ -21,10 +22,8 @@
 
 -  📫 How to reach me [Connect 1:1](https://topmate.io/tusharbhardwaj)
 - ⚡Fact: **At the end everything is static**
+</div>
 
- <a href="https://leetcode.com/Tusharr2004/" target="_blank">
- <img align="right" src='https://leetcard.jacoblin.cool/Tusharr2004?hide=ranking&border=0&radius=21' width='310"'>
-</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,11 +32,15 @@
 <a href="https://leetcode.com/Tusharr2004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@tushar_bhardwaj" height="30" width="40" /></a>
 </p>
 
+<p align="left">
+ <a href="https://leetcode.com/Tusharr2004/" target="_blank">
+ <img align="right" src='https://leetcard.jacoblin.cool/Tusharr2004?hide=ranking&border=0&radius=21' width='310"'>
+</a>
+</p>
 <br>
-<p>
+
 
  ![Screenshot from 2023-10-20 02-10-20](https://github.com/yashsiwach/yashsiwach/assets/112823140/1fe0731d-0d2b-4697-8134-c29c8494f381)
-</p>
 <img src= "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
     
 </div>
