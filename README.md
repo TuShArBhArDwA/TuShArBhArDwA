@@ -1,4 +1,3 @@
-
 - 🏠 BELONG TO -> **HISAR, HARYANA - 125001, INDIA**
 <h1 align="center"><p align="left">
  <a href="https://git.io/typing-svg" target="_blank">
@@ -10,7 +9,8 @@
 <div>
 <img src= "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img align="right" alt="coding" width="300" height="290" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdpMDZjYndvamprdzVybThxdGlxMGEwcTAxZmlvc2p5bzJxZGFlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy-downsized.gif">
-- [🤖 Meet T-Bot & discover my work](https://t-bot-blush.vercel.app/)
+
+- 🤖 [Meet T-Bot & discover my work](https://t-bot-blush.vercel.app/)
 
 - 🌐 PortFolio 👉 [View Website](https://tushar-bhardwaj.vercel.app/)
  
