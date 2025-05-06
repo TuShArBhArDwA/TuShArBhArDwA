@@ -16,8 +16,6 @@
 - 🤖 [Meet T-Bot & discover my work](https://t-bot-blush.vercel.app/)
 
 - 🌐 PortFolio 👉 [View Website](https://tushar-bhardwaj.vercel.app/)
- 
-- 🌐 PortFolio 2 👉 [View Website](https://tusharbhardwaj.vercel.app/)
 
 - 🏅 I’m currently learning **Competitive Programming**
 
