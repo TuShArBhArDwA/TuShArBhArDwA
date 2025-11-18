@@ -24,28 +24,13 @@
 -  📫 How to reach me [Connect 1:1](https://topmate.io/tusharbhardwaj)
 - ⚡Fact: **At the end everything is static**
 </div>
-
-
-<h3 align="left">Connect with me:</h3>
+  
+ 
 <p align="left">
-<a href="https://www.linkedin.com/in/bhardwajtushar2004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@tushar_bhardwaj" height="30" width="40" /></a>
-<a href="https://www.instagram.com/t.ushar20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="t.ushar19" height="30" width="40" /></a>
-<a href="https://leetcode.com/Tusharr2004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@tushar_bhardwaj" height="30" width="40" /></a>
+  <!-- LeetCode Stats Card -->
+  <img src="https://leetcard.jacoblin.cool/Tusharr2004?hide=ranking&border=0&radius=21" width="330" />
 </p>
-
-<p align="left">
- <a href="https://leetcode.com/Tusharr2004/" target="_blank">
- <img align="right" src='https://leetcard.jacoblin.cool/Tusharr2004?hide=ranking&border=0&radius=21' width='310"'>
-</a>
-</p>
-<br>
-
-
- ![Screenshot from 2023-10-20 02-10-20](https://github.com/yashsiwach/yashsiwach/assets/112823140/1fe0731d-0d2b-4697-8134-c29c8494f381)
 <img src= "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-    
-</div>
-
 <h3 align="left">Languages and Tools:</h3>
 
 - Backend
@@ -85,11 +70,3 @@
 
 <br/>
 <img src= "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3 align="center"> My GitHub Snake: Always Hungry 🥹</h3>
-When I Code, the Snake Grows! ☠️<br/>
-The snake only eats code. Keep it fed! 🫡
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TuShArBhArDwA/TuShArBhArDwA/blob/output/github-contribution-grid-snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/TuShArBhArDwA/TuShArBhArDwA/blob/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github-snake" src="https://github.com/TuShArBhArDwA/TuShArBhArDwA/blob/output/github-contribution-grid-snake-dark.svg">
-</picture>
