@@ -1,6 +1,4 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=TuShArBhArDwA&label=Profile%20views&color=00FF00&style=flat" alt="TuShArBhArDwA" />
-</p>
+
 <h1 align="center"><p align="left">
  <a href="https://git.io/typing-svg" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com?size=30&color=1A9AF7&lines=;My+self+Tushar;Welcome+to+my+GitHub;I'm+a+programmer;I'm+a+Developer;">
