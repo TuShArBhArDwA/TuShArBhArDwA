@@ -90,8 +90,8 @@ Your sponsorship helps me build free tools for students & developers including j
 <br/>
 <img src= "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="center"> 🐍 My GitHub Snake: Always Hungry </h3>
-When I Code, the Snake Grows! ☠️  
+<h3 align="center"> My GitHub Snake: Always Hungry </h3>
+When I Code, the Snake Grows! ☠️  <br/>
 The snake only eats code. Keep it fed! 🫡
 
 <picture>
