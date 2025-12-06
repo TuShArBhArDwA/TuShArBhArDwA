@@ -62,7 +62,7 @@ Your sponsorship helps me build free tools for students & developers including j
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https: //skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css" />
   </a>
 </p>
 
