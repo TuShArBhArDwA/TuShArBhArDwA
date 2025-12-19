@@ -1,101 +1,100 @@
-<h1 align="center"><p align="left">
- <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&color=1A9AF7&lines=;My+self+Tushar;Welcome+to+my+GitHub;I'm+a+programmer;I'm+a+Developer;">
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&color=1A9AF7&lines=Hi%2C+I'm+Tushar+👋;Software+Engineer">
   </a>
-</p>
 </h1>
 
-<!-- ⭐ SUPPORT SECTION ⭐ -->
-<h2 align="center">💙 Support My Open Source Work</h2>
-
 <p align="center">
-If my projects or resources have helped you, please consider supporting my open-source journey.  
-Your sponsorship helps me build free tools for students & developers including job updates, AI-powered resume tools, interview preparation, mock interviews, and more.
+  I build scalable backend systems, APIs, and data-driven platforms.<br/>
+  Experienced with <b>Golang / Node.js</b>, databases, and cloud infrastructure.
 </p>
 
 <p align="center">
-  <a href="https://github.com/sponsors/TuShArBhArDwA" target="_blank">
-    <img src="https://img.shields.io/badge/🌟%20Become%20a%20Sponsor-%231A9AF7.svg?&style=for-the-badge" />
-  </a>
-</p>
-
-<p align="center">
-  <b>Become a sponsor & let’s build the future together❤️</b>
+  <a href="https://tushar-bhardwaj.vercel.app/">Portfolio</a> •
+  <a href="https://github.com/TuShArBhArDwA">GitHub</a> •
+  <a href="https://www.linkedin.com/in/bhardwajtushar2004/">LinkedIn</a> •
+  <a href="https://topmate.io/tusharbhardwaj">1:1 Mentorship</a>
 </p>
 
 ---
 
-<h3 align="center">Ex SWE Intern @Microsoft | Ex-Intern @CipherSchools | LeetCode Reviewer & Solution Author <br/> Top 0.1% Creator <a href="https://topmate.io/tusharbhardwaj" target="_blank">@Topmate</a><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h3>
+<h3 align="center">
+Ex-SWE Intern @Microsoft <br/>
+LeetCode Reviewer & Solution Author | Top 0.1% Creator 
+<a href="https://topmate.io/tusharbhardwaj">@Topmate</a>
+</h3>
 
-<div>
-<img src= "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img align="right" alt="coding" width="300" height="290" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdpMDZjYndvamprdzVybThxdGlxMGEwcTAxZmlvc2p5bzJxZGFlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy-downsized.gif">
+---
 
-- Meet [T-Bot](https://t-bot-blush.vercel.app/) & discover my work
+### What I’m Working On
+- Backend & platform engineering projects
+- Kubernetes controllers, CRDs & distributed systems
+- Competitive programming & problem solving
 
-- PortFolio 👉 [View Website](https://tushar-bhardwaj.vercel.app/)
-
-- I’m currently learning **Competitive Programming**
-
-- I write articles on [LinkedIn](https://www.linkedin.com/in/bhardwajtushar2004/)
-
-- How to reach me [Connect 1:1](https://topmate.io/tusharbhardwaj)
-
-- Fact: **At the end everything is static**
-</div>
+### Highlights
+- Built and reviewed production-grade backend systems  
+- Solved 1100+ DSA problems with long-term consistency  
+- Mentored students & professionals through Topmate  
 
 <p align="left">
-  <img src="https://leetcard.jacoblin.cool/Tusharr2004?hide=ranking&border=0&radius=21" width="330" />
+  <img src="https://leetcard.jacoblin.cool/Tusharr2004?hide=ranking&border=0&radius=21" width="330"/>
 </p>
 
-<img src= "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<h3 align="left">Languages and Tools:</h3>
+## 🛠️ Languages & Tools
 
-- Backend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" />
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=go,nodejs,express,php,laravel" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css" />
+</p>
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+### Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,aws,firebase,docker,kubernetes" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,linux" />
+</p>
+
+---
+
+## 💙 Support My Open Source Work
+If my projects or resources helped you, consider supporting my open-source journey.  
+Your support helps me build **free tools for students & developers**.
+
+<p>
+  <a href="https://github.com/sponsors/TuShArBhArDwA">
+    <img src="https://img.shields.io/badge/🌟%20Become%20a%20Sponsor-%231A9AF7.svg?&style=for-the-badge"/>
   </a>
 </p>
 
-- Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css" />
-  </a>
-</p>
+---
 
-- Database
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-  </a>
-</p>
-
-- Cloud Servers
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,firebase" />
-  </a>
-</p>
-
-- Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,linux" />
-  </a>
-</p>
-
-<br/>
-<img src= "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h3 align="center"> My GitHub Snake: Always Hungry </h3>
-When I Code, the Snake Grows! ☠️  <br/>
-The snake only eats code. Keep it fed! 🫡
+## GitHub Snake — Always Hungry
+When I code, the snake grows.  
+The snake only eats code. Keep it fed 🫡
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TuShArBhArDwA/TuShArBhArDwA/blob/output/github-contribution-grid-snake.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/TuShArBhArDwA/TuShArBhArDwA/blob/output/github-contribution-grid-snake-dark.svg">
   <img alt="github-snake" src="https://github.com/TuShArBhArDwA/TuShArBhArDwA/blob/output/github-contribution-grid-snake-dark.svg">
 </picture>
+
+---
+
+<p align="center">
+  <i>Fact:</i> <b>At the end, everything is static.</b>
+</p>
