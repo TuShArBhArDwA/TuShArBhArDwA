@@ -5,9 +5,11 @@
 </h1>
 
 <p align="center">
-  I build scalable backend systems, APIs, and data-driven platforms.<br/>
-  Experienced with <b>Golang / Node.js</b>, databases, and cloud infrastructure.
+  <b>Ex-SWE Intern @Microsoft</b><br/>
+  LeetCode Reviewer & Solution Author · Top 0.1% Creator 
+  <a href="https://topmate.io/tusharbhardwaj">@Topmate</a>
 </p>
+
 
 <p align="center">
   <a href="https://tushar-bhardwaj.vercel.app/">Portfolio</a> •
@@ -17,15 +19,14 @@
   <a href="https://topmate.io/tusharbhardwaj">1:1 Mentorship</a>
 </p>
 
----
 
-<h3 align="center">
-Ex-SWE Intern @Microsoft <br/>
-LeetCode Reviewer & Solution Author | Top 0.1% Creator 
-<a href="https://topmate.io/tusharbhardwaj">@Topmate</a>
-</h3>
+
 
 ---
+<p>
+  I build scalable backend systems, APIs, and data-driven platforms.<br/>
+  Experienced with <b>Golang / Node.js</b>, databases, and cloud infrastructure.
+</p>
 
 ### What I’m Working On
 - Backend & platform engineering projects
