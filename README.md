@@ -13,6 +13,7 @@
   <a href="https://tushar-bhardwaj.vercel.app/">Portfolio</a> •
   <a href="https://github.com/TuShArBhArDwA">GitHub</a> •
   <a href="https://www.linkedin.com/in/bhardwajtushar2004/">LinkedIn</a> •
+  <a href="https://drive.google.com/file/d/1dhHgq7OBibD68qJaI6QZ9aSD56caBZHO/view">Resume</a> •
   <a href="https://topmate.io/tusharbhardwaj">1:1 Mentorship</a>
 </p>
 
@@ -34,7 +35,8 @@ LeetCode Reviewer & Solution Author | Top 0.1% Creator
 ### Highlights
 - Built and reviewed production-grade backend systems  
 - Solved 1100+ DSA problems with long-term consistency  
-- Mentored students & professionals through Topmate  
+- LeetCode Reviewer & Solution Author  
+- Top 0.1% Creator on Topmate (mentorship & career guidance)
 
 <p align="left">
   <img src="https://leetcard.jacoblin.cool/Tusharr2004?hide=ranking&border=0&radius=21" width="330"/>
