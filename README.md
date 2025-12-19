@@ -44,7 +44,7 @@ LeetCode Reviewer & Solution Author | Top 0.1% Creator
 
 ---
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 ### Backend
 <p>
