@@ -29,7 +29,6 @@ LeetCode Reviewer & Solution Author | Top 0.1% Creator
 
 ### What I’m Working On
 - Backend & platform engineering projects
-- Kubernetes controllers, CRDs & distributed systems
 - Competitive programming & problem solving
 
 ### Highlights
