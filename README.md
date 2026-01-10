@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://tushar-bhardwaj.vercel.app/">Portfolio</a> •
   <a href="https://www.linkedin.com/in/bhardwajtushar2004/">LinkedIn</a> •
-  <a href="https://x.com/Tusharab2004">x</a> •
+  <a href="https://x.com/Tusharab2004">X</a> •
   <a href="https://drive.google.com/file/d/1dhHgq7OBibD68qJaI6QZ9aSD56caBZHO/view">Resume</a> •
   <a href="https://topmate.io/tusharbhardwaj">1:1 Mentorship</a>
 </p>
