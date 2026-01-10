@@ -9,7 +9,7 @@ I’ve solved 1100+ DSA problems with long-term consistency, authored and review
 
 Currently building backend-heavy platforms and deepening my expertise in system architecture and databases.
 
-You can find me across my <a href="https://linktr.ee/codewithtusharbhardwaj">socials</a>.
+You can find me across my <a href="https://linktr.ee/codewithtusharbhardwaj">socials</a> or reach out at <a href="mailto:tusharbhardwaj2617@gmail.com">tusharbhardwaj2617@gmail.com</a>.
 
 <sub>
 If my work helps you, consider <a href="https://github.com/sponsors/TuShArBhArDwA">supporting my open-source work</a>.
