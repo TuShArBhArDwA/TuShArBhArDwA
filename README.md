@@ -44,35 +44,6 @@
 
 ---
 
-## Languages & Tools
-
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=go,nodejs,express,php,laravel" />
-</p>
-
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css" />
-</p>
-
-### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-</p>
-
-### Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=azure,aws,firebase,docker,kubernetes" />
-</p>
-
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,linux" />
-</p>
-
----
-
 ## 💙 Support My Open Source Work
 If my projects or resources helped you, consider supporting my open-source journey.  
 Your support helps me build **free tools for students & developers**.
