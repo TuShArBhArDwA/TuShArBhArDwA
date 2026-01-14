@@ -7,6 +7,8 @@ I enjoy working close to the metal — databases, concurrency, and system design
 
 I’ve solved 1100+ DSA problems with long-term consistency, authored and reviewed solutions on <a href="https://leetcode.com">LeetCode</a>, and actively mentor engineers on backend engineering and career growth via <a href="https://topmate.io/tusharbhardwaj">Topmate</a>.
 
+I document my engineering interview journey and technical learnings across top product companies on <a href="https://medium.com/@bhardwajtushar2004">Medium</a>.
+
 Currently building backend-heavy platforms and deepening my expertise in system architecture and databases.
 
 You can find me across my <a href="https://linktr.ee/codewithtusharbhardwaj">socials</a> or reach out at <a href="mailto:tusharbhardwaj2617@gmail.com">tusharbhardwaj2617@gmail.com</a>.
