@@ -19,9 +19,7 @@
 
  **Ex-Software Engineer Intern @ Microsoft** — shipped production systems and worked on real-world engineering problems.
 
----
-
-## Projects
+## Current Projects
 
 - 🔗 [**MiniLink**](https://github.com/TuShArBhArDwA/MiniLink) - Open, full-stack link-in-bio platform focused on simplicity, customization, and analytics
 - 🎯 [**PulseAI Prep**](https://github.com/TuShArBhArDwA/PulseAI) - AI-driven interview preparation with mock interviews and feedback
@@ -29,7 +27,6 @@
 - 🎵 [**AnonBeats**](https://github.com/TuShArBhArDwA/AnonBeats) - Personal, ad-free music player for uploading tracks, building playlists, and streaming
 - 🎨 [**Canvas Editor**](https://github.com/TuShArBhArDwA/Canvas-Editor) - Minimal 2D canvas for ideas with instant cloud persistence
 
----
 
 ### Interview Playbooks
 
@@ -45,13 +42,10 @@
 - 🧰 **[GitHub Basics](https://github.com/TuShArBhArDwA/github_basics)** - practical Git & GitHub essentials
 
 
----
 
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/TuShArBhArDwA)
-
----
 
 ## What I’m Doing
 
@@ -61,7 +55,6 @@
 - **Mentoring & community** - guiding students and peers via [Topmate](https://topmate.io/tusharbhardwaj) and community initiatives
 - **Working on what’s next** - building something you’ll hear about soon
 
----
 
 ## Learn From My Experience
 
@@ -75,7 +68,6 @@
 
 *More writing on →* [Medium](https://medium.com/@bhardwajtushar2004)
 
----
 
 ## Connect
 
@@ -89,7 +81,7 @@
 
 ---
 
-## Recognition
+### Recognition
 
 - Featured twice at [**Times Square**](https://www.linkedin.com/posts/bhardwajtushar2004_timessquare-topmate-keepbuilding-activity-7366124262883020801-1Rgh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4sgloB7CiwCsH505Gt8Bov5ePkQPnMwTU)
 - Cracked [**Microsoft Software Engineer Internship**](https://medium.com/@bhardwajtushar2004/microsoft-swe-intern-hyderabad-bengaluru-noida-sep-2024-offer-28f71a07adce)
@@ -98,21 +90,18 @@
 - Worked with **international clients**
 - **23k+ followers** on [LinkedIn](https://www.linkedin.com/in/bhardwajtushar2004/)
 
----
 
-## Media
+### Media
 
 - **[Built a Better Linktree](https://www.youtube.com/watch?v=BVS7qoXoRCs)** - MiniLink walkthrough, why it’s simpler to use, and the features it offers.
 
----
 
-## Model Status
+### Model Status
 
-> **What model am I using right now?**  
+- **What model is Peter using?** Check the live blurb at [whatmodelistusharusing.com](https://whatmodelistusharusing.vercel.app)
 
----
 
-## Philosophy
+### Philosophy
 
 > "Small steps, every day" - I build tools to solve my own problems, then share them with the world. Currently exploring how AI changes everything about software development.
 
@@ -127,7 +116,6 @@
 
 </details>
 
----
 
 <sub>
 If my work helps you, consider supporting it on  
