@@ -126,3 +126,11 @@
 - Enjoy gaming (when not coding)
 
 </details>
+
+---
+
+<sub>
+If my work helps you, consider supporting it on  
+<a href="https://github.com/sponsors/TuShArBhArDwA">GitHub Sponsors</a>
+</sub>
+
