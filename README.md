@@ -23,26 +23,26 @@
 
 ## Projects
 
-- 🔗 **MiniLink** — Open, full-stack link-in-bio platform focused on simplicity, customization, and analytics
-- 🎯 **PulseAI Prep** — AI-driven interview preparation with mock interviews and feedback
-- 💼 **HireMe** — Full-stack job portal for job discovery, applications, and recruiter postings
-- 🎵 **AnonBeats** — Personal, ad-free music player for uploading tracks, building playlists, and streaming
-- 🎨 **Canvas Editor** — Minimal 2D canvas for ideas with instant cloud persistence
+- 🔗 **MiniLink** - Open, full-stack link-in-bio platform focused on simplicity, customization, and analytics
+- 🎯 **PulseAI Prep** - AI-driven interview preparation with mock interviews and feedback
+- 💼 **HireMe** - Full-stack job portal for job discovery, applications, and recruiter postings
+- 🎵 **AnonBeats** - Personal, ad-free music player for uploading tracks, building playlists, and streaming
+- 🎨 **Canvas Editor** - Minimal 2D canvas for ideas with instant cloud persistence
 
 ---
 
 ### Interview Playbooks
 
-- 🧠 **[System Design](https://github.com/TuShArBhArDwA/System-Design)** — designing systems at scale and preparing for system design interviews
-- ⚙️ **[Operating Systems (1Shot-OS)](https://github.com/TuShArBhArDwA/1Shot-OS)** — OS fundamentals distilled for quick revision
-- 🗄️ **[Database Systems (1Shot-DBMS)](https://github.com/TuShArBhArDwA/1Shot-DBMS)** — DBMS concepts for interview preparation
-- 🌐 **[Computer Networks (1Shot-CN)](https://github.com/TuShArBhArDwA/1Shot-CN)** — networking essentials in a one-shot format
-- 🧮 **[SQL (1Shot-SQL)](https://github.com/TuShArBhArDwA/1Shot-SQL)** — SQL concepts and patterns for interviews
-- 🧩 **[Object-Oriented Programming (1Shot-OOPS)](https://github.com/TuShArBhArDwA/1Shot-OOPS)** — OOPS revision with C++ examples
-- 💬 **[Most Common HR Interview Questions](https://github.com/TuShArBhArDwA/Most-common-HR-interview-questions)** — behavioral questions and structured answers
-- 🧑‍💼 **[Resources for Senior Software Engineers](https://github.com/TuShArBhArDwA/Resources-for-Senior-Software-Engineer)** — expectations, preparation, and growth
-- 🏢 **[LeetCode Questions (Company-wise)](https://github.com/TuShArBhArDwA/LeetCode-Questions-CompanyWise)** — curated problems by company
-- 🧰 **[GitHub Basics](https://github.com/TuShArBhArDwA/github_basics)** — practical Git & GitHub essentials
+- 🧠 **[System Design](https://github.com/TuShArBhArDwA/System-Design)** - designing systems at scale and preparing for system design interviews
+- ⚙️ **[Operating Systems (1Shot-OS)](https://github.com/TuShArBhArDwA/1Shot-OS)** - OS fundamentals distilled for quick revision
+- 🗄️ **[Database Systems (1Shot-DBMS)](https://github.com/TuShArBhArDwA/1Shot-DBMS)** - DBMS concepts for interview preparation
+- 🌐 **[Computer Networks (1Shot-CN)](https://github.com/TuShArBhArDwA/1Shot-CN)** - networking essentials in a one-shot format
+- 🧮 **[SQL (1Shot-SQL)](https://github.com/TuShArBhArDwA/1Shot-SQL)** - SQL concepts and patterns for interviews
+- 🧩 **[Object-Oriented Programming (1Shot-OOPS)](https://github.com/TuShArBhArDwA/1Shot-OOPS)** - OOPS revision with C++ examples
+- 💬 **[Most Common HR Interview Questions](https://github.com/TuShArBhArDwA/Most-common-HR-interview-questions)** - behavioral questions and structured answers
+- 🧑‍💼 **[Resources for Senior Software Engineers](https://github.com/TuShArBhArDwA/Resources-for-Senior-Software-Engineer)** - expectations, preparation, and growth
+- 🏢 **[LeetCode Questions (Company-wise)](https://github.com/TuShArBhArDwA/LeetCode-Questions-CompanyWise)** - curated problems by company
+- 🧰 **[GitHub Basics](https://github.com/TuShArBhArDwA/github_basics)** - practical Git & GitHub essentials
 
 
 ---
@@ -55,11 +55,11 @@
 
 ## What I’m Doing
 
-- **Living in the future** — learning and building with AI to ship software faster and smarter
-- **Sharing real experiences** — writing about interviews, projects, and lessons learned on [Medium](https://medium.com/@bhardwajtushar2004)
-- **Rapid prototyping** — building and shipping full apps in days, not months
-- **Mentoring & community** — guiding students and peers via [Topmate](https://topmate.io/tusharbhardwaj) and community initiatives
-- **Working on what’s next** — building something you’ll hear about soon
+- **Living in the future** - learning and building with AI to ship software faster and smarter
+- **Sharing real experiences** - writing about interviews, projects, and lessons learned on [Medium](https://medium.com/@bhardwajtushar2004)
+- **Rapid prototyping** - building and shipping full apps in days, not months
+- **Mentoring & community** - guiding students and peers via [Topmate](https://topmate.io/tusharbhardwaj) and community initiatives
+- **Working on what’s next** - building something you’ll hear about soon
 
 ---
 
