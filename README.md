@@ -23,11 +23,11 @@
 
 ## Projects
 
-- 🔗 **MiniLink** - Open, full-stack link-in-bio platform focused on simplicity, customization, and analytics
-- 🎯 **PulseAI Prep** - AI-driven interview preparation with mock interviews and feedback
-- 💼 **HireMe** - Full-stack job portal for job discovery, applications, and recruiter postings
-- 🎵 **AnonBeats** - Personal, ad-free music player for uploading tracks, building playlists, and streaming
-- 🎨 **Canvas Editor** - Minimal 2D canvas for ideas with instant cloud persistence
+- 🔗 [**MiniLink**](https://github.com/TuShArBhArDwA/MiniLink) - Open, full-stack link-in-bio platform focused on simplicity, customization, and analytics
+- 🎯 [**PulseAI Prep**](https://github.com/TuShArBhArDwA/PulseAI) - AI-driven interview preparation with mock interviews and feedback
+- 💼 [**HireMe**](https://github.com/TuShArBhArDwA/HireMe) - Full-stack job portal for job discovery, applications, and recruiter postings
+- 🎵 [**AnonBeats**](https://github.com/TuShArBhArDwA/AnonBeats) - Personal, ad-free music player for uploading tracks, building playlists, and streaming
+- 🎨 [**Canvas Editor**](https://github.com/TuShArBhArDwA/Canvas-Editor) - Minimal 2D canvas for ideas with instant cloud persistence
 
 ---
 
