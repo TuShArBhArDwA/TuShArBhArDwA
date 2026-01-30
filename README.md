@@ -96,11 +96,6 @@
 - **[Built a Better Linktree](https://www.youtube.com/watch?v=BVS7qoXoRCs)** - MiniLink walkthrough, why it’s simpler to use, and the features it offers.
 
 
-### Model Status
-
-- **What model is Peter using?** Check the live blurb at [whatmodelistusharusing.com](https://whatmodelistusharusing.vercel.app)
-
-
 ### Philosophy
 
 > "Small steps, every day" - I build tools to solve my own problems, then share them with the world. Currently exploring how AI changes everything about software development.
