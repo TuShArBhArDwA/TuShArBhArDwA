@@ -26,6 +26,7 @@
 - 💼 [**HireMe**](https://github.com/TuShArBhArDwA/HireMe) - Full-stack job portal for job discovery, applications, and recruiter postings
 - 🎵 [**AnonBeats**](https://github.com/TuShArBhArDwA/AnonBeats) - Personal, ad-free music player for uploading tracks, building playlists, and streaming
 - 🎨 [**Canvas Editor**](https://github.com/TuShArBhArDwA/Canvas-Editor) - Minimal 2D canvas for ideas with instant cloud persistence
+- 🗺️ [**Maze Solver**](https://github.com/TuShArBhArDwA/MazeSolver) - An interactive maze generator and solver with multiple algorithms
 
 
 ### Interview Playbooks
