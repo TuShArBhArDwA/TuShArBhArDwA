@@ -1,7 +1,7 @@
 # Hi, I’m Tushar Bhardwaj 👋
 
 📍 **India** | ⚙️ **Software Engineer** | ☁️ **Ex-Microsoft SWE Intern**<br/>
-🌐 Portfolio → https://tushar-bhardwaj.vercel.app
+🌐 Portfolio - https://tushar-bhardwaj.vercel.app
 
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
