@@ -23,6 +23,7 @@
 
 ## Current Projects
 
+- 📖 [**MiniDiary**]() - Coming soon...
 - 🤖 [**Weaave**](https://weaave.vercel.app/) - Build, connect, and deploy AI workflows visually — once you see it, you won’t go back
 - 🔗 [**MiniLink**](https://github.com/TuShArBhArDwA/MiniLink) - Open, full-stack link-in-bio platform focused on simplicity, customization, and analytics
 - 📲 [**MiniRizz**](https://github.com/TuShArBhArDwA/minirizz) - Your AI Wingman for the digital age – never get left on read again
