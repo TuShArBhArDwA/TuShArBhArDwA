@@ -24,8 +24,9 @@
 ## Current Projects
 
 - 📖 [**MiniDiary**]() - Coming soon...
+- 💬 [**MiniMock**](https://github.com/TuShArBhArDwA/MiniMock) - Instant chat mockups. No data saved. No watermark. Easy to use.
 - 🤖 [**Weaave**](https://weaave.vercel.app/) - Build, connect, and deploy AI workflows visually — once you see it, you won’t go back
-- 🔗 [**MiniLink**](https://github.com/TuShArBhArDwA/MiniLink) - Open, full-stack link-in-bio platform focused on simplicity, customization, and analytics
+- 🔗 [**MiniLink**](https://github.com/TuShArBhArDwA/MiniLink) - Create your link-in-bio page in seconds. Free forever.
 - 📲 [**MiniRizz**](https://github.com/TuShArBhArDwA/minirizz) - Your AI Wingman for the digital age – never get left on read again
 - 🎯 [**PulseAI Prep**](https://github.com/TuShArBhArDwA/PulseAI) - AI-driven interview preparation with mock interviews and feedback
 - 💼 [**HireMe**](https://github.com/TuShArBhArDwA/HireMe) - Full-stack job portal for job discovery, applications, and recruiter postings
