@@ -24,7 +24,7 @@
 ## Current Projects
 
 - 📖 [**MiniDiary**]() - Coming soon...
-- 💬 [**MiniMock**](https://github.com/TuShArBhArDwA/MiniMock) - Instant chat mockups. No data saved. No watermark. Easy to use.
+- 💬 [**MiniMock**](https://github.com/TuShArBhArDwA/MiniMock) - Instant chat, social media, and AI mockups. No data saved. No watermark. Easy to use.
 - 🤖 [**Weaave**](https://weaave.vercel.app/) - Build, connect, and deploy AI workflows visually — once you see it, you won’t go back
 - 🔗 [**MiniLink**](https://github.com/TuShArBhArDwA/MiniLink) - Create your link-in-bio page in seconds. Free forever.
 - 📲 [**MiniRizz**](https://github.com/TuShArBhArDwA/minirizz) - Your AI Wingman for the digital age – never get left on read again
