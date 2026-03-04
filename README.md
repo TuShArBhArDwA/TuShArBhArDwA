@@ -66,7 +66,8 @@
 ## Learn From My Experience
 
 - [How I Secured a Microsoft Software Engineer Internship (2025)](https://medium.com/@bhardwajtushar2004/microsoft-swe-intern-hyderabad-bengaluru-noida-sep-2024-offer-28f71a07adce)
-- [I Was Tired of Ugly Bio Links, So I Built My Own](https://medium.com/@bhardwajtushar2004/i-was-tired-of-ugly-bio-links-so-i-built-my-own-b5499b60bd70)
+- [MiniLink — The Most Customizable Link-in-Bio Platform for Developers (2026)](https://medium.com/@bhardwajtushar2004/minilink-the-most-customizable-link-in-bio-platform-for-developers-2026-a4f0ceb94e0d)
+- [How to Create Realistic Chat Mockups (Without Photoshop or Watermarks) -The Modern Way](https://medium.com/@bhardwajtushar2004/how-to-create-realistic-chat-mockups-without-photoshop-or-watermarks-the-modern-way-7fd93939bdb5)
 - [Stripe Technical Team Screen Interview Experience](https://medium.com/@bhardwajtushar2004/stripe-technical-team-screen-interview-experience-3a6a9f958075)
 - [CRED Backend Intern: Machine Coding Round Interview Experience](https://medium.com/@bhardwajtushar2004/cred-backend-intern-machine-coding-round-interview-experience-66a3e28abb90)
 - [Inside Eightfold.ai’s Agentic AI Internship Hiring Process (2026)](https://medium.com/@bhardwajtushar2004/inside-eightfold-ais-agentic-ai-internship-hiring-process-2026-f86dcb625aa8)
