@@ -24,8 +24,9 @@
 ## Current Projects
 
 - 📖 [**MiniDiary**]() - Coming soon...
-- 💬 [**MiniMock**](https://github.com/TuShArBhArDwA/MiniMock) - Instant chat, social media, and AI mockups. No data saved. No watermark. Easy to use.
+- ⭐ [**MiniVouch**](https://github.com/TuShArBhArDwA/MiniVouch) - Collect and showcase real testimonials from mentees, clients, and peers.
 - 🔗 [**MiniLink**](https://github.com/TuShArBhArDwA/MiniLink) - Create your link-in-bio page in seconds. Free forever.
+- 💬 [**MiniMock**](https://github.com/TuShArBhArDwA/MiniMock) - Instant chat, social media, and AI mockups. No data saved. No watermark. Easy to use.
 - 🤖 [**Weaave**](https://weaave.vercel.app/) - Build, connect, and deploy AI workflows visually — once you see it, you won’t go back
 - 📲 [**MiniRizz**](https://github.com/TuShArBhArDwA/minirizz) - Your AI Wingman for the digital age – never get left on read again
 - 🎯 [**PulseAI Prep**](https://github.com/TuShArBhArDwA/PulseAI) - AI-driven interview preparation with mock interviews and feedback
@@ -77,14 +78,17 @@
 *More writing on →* [Medium](https://medium.com/@bhardwajtushar2004)
 
 
-## Connect
+## Elsewhere
+All my links in one place — socials, writing, mentoring, and more. <br/>
+**[MiniLink — @tusharbhardwaj](https://minianonlink.vercel.app/tusharbhardwaj)**
 
-[![Follow](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TuShArBhArDwA)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhardwajtushar2004/)
-[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Tusharab2004)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCqq8kNn9yKvsl95MeiFPIeg)
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@bhardwajtushar2004)
-[![Topmate](https://img.shields.io/badge/-Topmate-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://topmate.io/tusharbhardwaj)
+---
+
+## What People Say
+
+I let my community speak for me. Verified testimonials, no edits.
+
+**[Read testimonials](https://minianonvouch.vercel.app/)**
 
 
 ---
