@@ -86,9 +86,15 @@ All my links in one place — socials, writing, mentoring, and more. <br/>
 
 ## What People Say
 
-I let my community speak for me. Verified testimonials, no edits.
+I let my community speak for me.  
+Verified testimonials from mentees, collaborators, and developers.
 
-**[Read testimonials](https://minianonvouch.vercel.app/)**
+- No edits  
+- Authenticated submissions  
+- Optional anonymity  
+
+→ **[Read testimonials](https://minianonvouch.vercel.app/)**  
+→ **[Leave a testimonial](https://minianonvouch.vercel.app/submit)**
 
 
 ---
