@@ -97,7 +97,7 @@ I let my community speak for me. Verified testimonials, no edits.
 
 - Featured twice at [**Times Square**](https://www.linkedin.com/posts/bhardwajtushar2004_timessquare-topmate-keepbuilding-activity-7366124262883020801-1Rgh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4sgloB7CiwCsH505Gt8Bov5ePkQPnMwTU)
 - Cracked [**Microsoft Software Engineer Internship**](https://medium.com/@bhardwajtushar2004/microsoft-swe-intern-hyderabad-bengaluru-noida-sep-2024-offer-28f71a07adce)
-- Winner — SaaS Market Competition [(MiniMock)](https://github.com/TuShArBhArDwA/MiniMock)
+- Winner — [SaaS Market Competition](https://x.com/joni_vrbt/status/2028263528583348552?s=20)
 - Top **0.1% mentor** on [Topmate](https://topmate.io/tusharbhardwaj)
 - Contributed as a **Problem Reviewer & Solution Author** on LeetCode
 - Worked with **international clients**
