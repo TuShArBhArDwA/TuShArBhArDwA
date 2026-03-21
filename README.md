@@ -24,6 +24,7 @@
 ## Current Projects
 
 - 📖 [**MiniDiary**]() - Coming soon...
+- 🔍 [HireLens](https://github.com/TuShArBhArDwA/HireLens) - AI-powered resume screening with candidate scoring, ranking, and hiring insights.
 - 🔗 [**MiniLink**](https://github.com/TuShArBhArDwA/MiniLink) - Create your link-in-bio page in seconds. Free forever.
 - 💬 [**MiniMock**](https://github.com/TuShArBhArDwA/MiniMock) - Instant chat, social media, and AI mockups. No data saved. No watermark. Easy to use.
 - 🤖 [**Weaave**](https://weaave.vercel.app/) - Build, connect, and deploy AI workflows visually — once you see it, you won’t go back
