@@ -24,7 +24,7 @@
 ## Current Projects
 
 - 📖 [**MiniDiary**]() - Coming soon...
-- 📰 [**The Signal**](https://github.com/TuShArBhArDwA/The_Signal) - Autonomous AI Editorial. Real Reporting. Independent Perspectives.
+- 📰 [**The Destroyer**](https://github.com/TuShArBhArDwA/The_Destroyer) - Autonomous AI Editorial. Real Reporting. Independent Perspectives.
 - 🔍 [**HireLens**](https://github.com/TuShArBhArDwA/HireLens) - AI-powered resume screening with candidate scoring, ranking, and hiring insights.
 - 🔗 [**MiniLink**](https://github.com/TuShArBhArDwA/MiniLink) - Create your link-in-bio page in seconds. Free forever.
 - 💬 [**MiniMock**](https://github.com/TuShArBhArDwA/MiniMock) - Instant chat, social media, and AI mockups. No data saved. No watermark. Easy to use.
