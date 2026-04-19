@@ -23,7 +23,7 @@
 
 ## Current Projects
 
-- 📑 [**ShortlistMe**](https://shortlistme.vercel.app) - Transform your resume into a stunning portfolio in seconds. Free Forever.
+- 📑 [**ShortlistMe**](http://shortlistme.site) - Transform your resume into a stunning portfolio in seconds. Free Forever.
 - 📰 [**The Destroyer**](https://github.com/TuShArBhArDwA/The_Destroyer), [**AutoPress**](https://github.com/TuShArBhArDwA/AutoPress) - Autonomous AI Editorial. Real Reporting. Independent Perspectives.
 - 🔍 [**HireLens**](https://github.com/TuShArBhArDwA/HireLens) - AI-powered resume screening with candidate scoring, ranking, and hiring insights.
 - 🔗 [**MiniLink**](https://github.com/TuShArBhArDwA/MiniLink) - Create your link-in-bio page in seconds. Free forever.
