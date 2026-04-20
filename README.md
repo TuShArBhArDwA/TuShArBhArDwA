@@ -70,6 +70,7 @@
 - [You’re Not Getting Shortlisted -And You Don’t Even Know Why](https://medium.com/@bhardwajtushar2004/youre-not-getting-shortlisted-and-you-don-t-even-know-why-4eb794e3c677)
 - [MiniLink — The Most Customizable Link-in-Bio Platform for Developers (2026)](https://medium.com/@bhardwajtushar2004/minilink-the-most-customizable-link-in-bio-platform-for-developers-2026-a4f0ceb94e0d)
 - [How to Create Realistic Chat Mockups (Without Photoshop or Watermarks) -The Modern Way](https://medium.com/@bhardwajtushar2004/how-to-create-realistic-chat-mockups-without-photoshop-or-watermarks-the-modern-way-7fd93939bdb5)
+- [The Smartest Way to Screen Resumes in 2026 (Without Wasting Hours)](https://medium.com/@bhardwajtushar2004/the-smartest-way-to-screen-resumes-in-2026-without-wasting-hours-2f6cdf45cfcb)
 - [How to Collect Testimonials for Your Portfolio (A Simple Testimonial Wall for Developers)](https://medium.com/@bhardwajtushar2004/how-to-collect-testimonials-for-your-portfolio-a-simple-testimonial-wall-for-developers-8ceefa88d4a8)
 - [Stripe Technical Team Screen Interview Experience](https://medium.com/@bhardwajtushar2004/stripe-technical-team-screen-interview-experience-3a6a9f958075)
 - [CRED Backend Intern: Machine Coding Round Interview Experience](https://medium.com/@bhardwajtushar2004/cred-backend-intern-machine-coding-round-interview-experience-66a3e28abb90)
