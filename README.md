@@ -67,6 +67,7 @@
 ## Learn From My Experience
 
 - [How I Secured a Microsoft Software Engineer Internship (2025)](https://medium.com/@bhardwajtushar2004/microsoft-swe-intern-hyderabad-bengaluru-noida-sep-2024-offer-28f71a07adce)
+- [You’re Not Getting Shortlisted -And You Don’t Even Know Why](https://medium.com/@bhardwajtushar2004/youre-not-getting-shortlisted-and-you-don-t-even-know-why-4eb794e3c677)
 - [MiniLink — The Most Customizable Link-in-Bio Platform for Developers (2026)](https://medium.com/@bhardwajtushar2004/minilink-the-most-customizable-link-in-bio-platform-for-developers-2026-a4f0ceb94e0d)
 - [How to Create Realistic Chat Mockups (Without Photoshop or Watermarks) -The Modern Way](https://medium.com/@bhardwajtushar2004/how-to-create-realistic-chat-mockups-without-photoshop-or-watermarks-the-modern-way-7fd93939bdb5)
 - [How to Collect Testimonials for Your Portfolio (A Simple Testimonial Wall for Developers)](https://medium.com/@bhardwajtushar2004/how-to-collect-testimonials-for-your-portfolio-a-simple-testimonial-wall-for-developers-8ceefa88d4a8)
