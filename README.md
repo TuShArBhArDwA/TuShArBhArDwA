@@ -110,7 +110,8 @@ Verified testimonials from mentees, collaborators, and developers.
 
 ### Media
 
-- **[Built a Better Linktree](https://www.youtube.com/watch?v=BVS7qoXoRCs)** - MiniLink walkthrough, why it’s simpler to use, and the features it offers.
+- **[Turn Your Resume Into a Live Portfolio (With Analytics) | ShortlistMe](https://www.youtube.com/watch?v=4nCCIvL8SvQ)** - ShortlistMe walkthrough of generating, customizing, and sharing a portfolio directly from a resume.
+- **[Built a Better Linktree | MiniLink](https://www.youtube.com/watch?v=BVS7qoXoRCs)** - MiniLink walkthrough, why it’s simpler to use, and the features it offers.
 
 
 ### Philosophy
