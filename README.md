@@ -105,7 +105,7 @@ Verified testimonials from mentees, collaborators, and developers.
 - Top **0.1% mentor** on [Topmate](https://topmate.io/tusharbhardwaj)
 - Contributed as a **Problem Reviewer & Solution Author** on LeetCode
 - Worked with **international clients**
-- **23k+ followers** on [LinkedIn](https://www.linkedin.com/in/bhardwajtushar2004/)
+- **24k+ followers** on [LinkedIn](https://www.linkedin.com/in/bhardwajtushar2004/)
 
 
 ### Media
